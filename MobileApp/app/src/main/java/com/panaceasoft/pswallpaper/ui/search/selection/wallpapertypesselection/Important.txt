@@ -1,0 +1,5 @@
+
+Kindly changes WallpaperActivity name to WallpaperTypesSelectionListActivity
+
+
+And WallpaperFragment to WallpaperTypesSelectionListFragment
