@@ -1,6 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 4.8.5
 -- https://www.phpmyadmin.net/
+-- Author: Eng.Blondel Seumo
 --
 -- Host: mysql1.panacea-soft.co
 -- Generation Time: Feb 22, 2020 at 02:49 AM
